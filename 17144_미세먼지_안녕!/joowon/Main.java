@@ -8,7 +8,6 @@ public class Main {
         int time = sc.nextInt();
         int[][] arr = new int[R][C];
         int[][] spread_arr = new int[R][C];
-        int result = 0;
 
         int airRow = 0;
         
