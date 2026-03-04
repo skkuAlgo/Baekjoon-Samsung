@@ -71,7 +71,7 @@ public class Main {
                 // 3차 오류... : 처음부터 다 채워진 경우에는.... ... ... (순서 바꿔줌! - 더 이상 채울게 없는걸 확인하는 부분이랑)
                 
 
-                // 다 채우면
+                // 다 채우면!
                 if(checkEmpty <= 0){
                     // System.out.println("checkEmpty"+ checkEmpty);
                     checkFirst++;
